@@ -1,2 +1,6 @@
-first try!
-i love github 
+---
+title: Shania's Main Article Analysis  
+layout: default
+nav_order: 1
+---
+
